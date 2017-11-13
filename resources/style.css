@@ -32,6 +32,7 @@ p {
 }
 #footer {
   background-color: dimgray;
+  text-align: left;
 }
 .copyright {
   color: white;
